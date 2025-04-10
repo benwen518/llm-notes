@@ -1,0 +1,4 @@
+title: 神经网络笔记
+description: 支持公式的 Markdown 站点
+markdown: kramdown
+theme: minima
